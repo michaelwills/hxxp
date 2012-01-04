@@ -6,6 +6,10 @@ the referrer set to the original link. The referrer can also be set
 explicitly with a ;ref:// comment. There is no user interface or
 options for this addon.
 
+To install:
+cd /path/to/http
+make
+
 Examples:
 
     hxxp://example.com/foo.jpg -> 
